@@ -1,4 +1,3 @@
-HEAD
 # Day 1 - Proyek Workshop
 
 Repository dokumentasi tugas Day 1 Proyek Workshop berupa halaman web rangkuman materi.
@@ -29,7 +28,7 @@ Repository ini berisi satu halaman web statis (`index.html`) yang merangkum hasi
 
 ## Informasi Kegiatan Workshop
 
-**Kegiatan:** Day 1 - Proyek Workshop
+**Kegiatan:** Day 1 - Workshop TIK PNJ 2026
 
 Materi yang disampaikan terdiri dari tiga bagian:
 
@@ -121,6 +120,5 @@ Dari sisi akademik dan laboratorium, saya jadi tahu prosedur peminjaman alat dan
 
 © 2026 Neilo Febrian Utomo · Kelompok Cooking Mama · Politeknik Negeri Jakarta
 
-# Puffilionrawr-Day-1-Cooking_Mama-Neilo_Febrian_Utomo
-Tugas Day 1 Event TIK | Cooking Mama | Neilo Febrian Utomo | TI - 1C
-6742601e42384b42527ffbc1b4dbfcb306a91895
+# Day-1-Cooking_Mama-Neilo_Febrian_Utomo
+Tugas Day 1 Event TIK PNJ 2026 | Cooking Mama | Neilo Febrian Utomo | TI - 1C
