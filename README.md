@@ -1,3 +1,4 @@
+HEAD
 # Day 1 - Proyek Workshop
 
 Repository dokumentasi tugas Day 1 Proyek Workshop berupa halaman web rangkuman materi.
@@ -119,3 +120,7 @@ Dari sisi akademik dan laboratorium, saya jadi tahu prosedur peminjaman alat dan
 ---
 
 © 2026 Neilo Febrian Utomo · Kelompok Cooking Mama · Politeknik Negeri Jakarta
+
+# Puffilionrawr-Day-1-Cooking_Mama-Neilo_Febrian_Utomo
+Tugas Day 1 Event TIK | Cooking Mama | Neilo Febrian Utomo | TI - 1C
+6742601e42384b42527ffbc1b4dbfcb306a91895
